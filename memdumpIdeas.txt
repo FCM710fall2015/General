@@ -1,4 +1,5 @@
 Evan: I can give you dumps of Windows 7, 8.1, etc. 
+	note, my dumps are superior to volatility's github, because they only use Windows XP
 
       I (and anyone) can give you Linux dumps, whatever you want.
 
