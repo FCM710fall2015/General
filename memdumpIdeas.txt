@@ -9,6 +9,22 @@ Evan: I can give you dumps of Windows 7, 8.1, etc.
 
       and get additional profiles (and memory dumps) from there.
 
+Main idea: 
+
+	dropbox, gmail
+	USB stick passed around in class
+
+	a few user created memdumps (mostly from Evan?  Any other volunteers?)
+	a few dumps pulled off volatility and github and elsewhere (email all of us where you get them?)
+	
+
 
 	* load profiles and dumps into a folder on THIS github
 	  (include where you got them)
+
+(windows group: we'll talk about a command list of volatility
+		we'll infect a VM with some malware, + run some simple process tests
+		we want to emphasize 3d view of process:
+			we see this port is open, but what time is it? 
+			should it be open at this time?  should this process listen on it?	
+) 
